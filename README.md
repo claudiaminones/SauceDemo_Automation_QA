@@ -1,4 +1,4 @@
-# Proyecto de Automatización QA - SauceDemo 🚀
+# Proyecto de Automatización QA - SauceDemo
 
 ## 📝 Propósito del Proyecto
 Este proyecto es parte de la pre-entrega final del curso de Automatización. El objetivo es validar el flujo principal que realiza un usuario en [SauceDemo](https://www.saucedemo.com/): desde el inicio de sesión seguro y la validación del catálogo de productos, hasta la interacción y verificación del carrito de compras.
